@@ -1,1 +1,3 @@
-# LogicApp_Teams_OpenAI_Integration_WithGPT4o
+**!!!Import This is an ARM template, so you need to use "deploy a custom template" feature to deploy all the resources, not just use as Logic App definition.**
+
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FDrac-Zhang%2FLogicApp_Teams_OpenAI_Integration_WithGPT4o%2Fmain%2Ftemplate.json)
